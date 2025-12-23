@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Human-Benchmark2/static/css/main.3d43e0f2.css",
+    "main.js": "/Human-Benchmark2/static/js/main.3cf36ae7.js",
+    "index.html": "/Human-Benchmark2/index.html",
+    "main.3d43e0f2.css.map": "/Human-Benchmark2/static/css/main.3d43e0f2.css.map",
+    "main.3cf36ae7.js.map": "/Human-Benchmark2/static/js/main.3cf36ae7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d43e0f2.css",
+    "static/js/main.3cf36ae7.js"
+  ]
+}
